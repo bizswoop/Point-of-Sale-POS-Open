@@ -31,12 +31,6 @@ Search for the Plugins on the WordPress Plugin Directory or visit the Add-ons ta
 
 = More Information = 
 * Website: [Point of Sale WooCommerce](http://www.bizswoop.com/wp/pos)
-* Multiple User Assignments: [User Assignments](https://www.bizswoop.com/wp/pos/users)
-
-= Recommendations =
-* [Device Compatibility](http://www.bizswoop.com/wp/pos/browsers/)
-* [Browser Support] (http://www.bizswoop.com/wp/pos/browsers/)
-* [Web Hosting](http://www.bizswoop.com/wp/pos/hosting)
 
 == WordPress Directory Installation ==
 
@@ -67,7 +61,7 @@ You're Ready to Go! Click "View POS" and start selling locally.
 
 == Frequently Asked Questions ==
 = Is the POS Plugin Free? =
-Yes, the POS has full functionality with user assignments of the Shop Owner and Register User. We think it's important to allow small businesses a solution with full functionality for free. If you need Multiple Users Assignments to the POS or have a larger business with multiple employees, you can upgrade to the Pro Plugin [BizSwoop POS Pro](http://www.bizswoop.com/wp/pos/users)
+Yes, the POS has full functionality with user assignments of the Shop Owner and Register User. We think it's important to allow small businesses a solution with full functionality for free. If you need Multiple Users Assignments to the POS or have a larger business with multiple employees, you can upgrade to the Pro Plugin [BizSwoop POS Pro](http://www.bizswoop.com/wp/pos)
 
 = Can I find more information about the POS? =
 Yes, visit our website for more information at [BizSwoop](http://www.bizswoop.com/wp/pos).
