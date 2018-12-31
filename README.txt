@@ -2,8 +2,8 @@
 Contributors: bizswoop
 Tags: point-of-sale, point of sale, pos, woocommerce, woocommerce-ecommerce, wordpress-ecommerce, ecommerce, e-commerce, kiosk, cart, order, checkout, commerce, sales, sell, sell online, shop, store, weekly store, outlet store, multiple stores, sell products store, inventory, square, shopify, magento, squarespace, vend, big commerce, weebly, shopkeeper
 Requires at least: 4.0
-Tested up to: 4.9.2
-Stable tag: 1.0.4
+Tested up to: 5.0.2
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,11 +11,7 @@ A Point of Sale (POS) plugin for the WooCommerce e-commerce toolkit. Sell everyw
 
 == Description ==
 
-The Point of Sale (POS) plugin for the WooCommerce e-commerce toolkit is the perfect plugin to complement your WooCommerce shop. WooCommerce provides the shopping experience online and the POS plugin provides the shopping checkout solution at your physical store location. The POS was created to easily work across multiple device types: Desktop, Tablet and Mobile. All products automatically sync between both your online store and point of sale. Quickly connect receipt and order printers for the customer or fulfillment stations to the Point of Sale plugin using Google Cloud Print. Select a single unified solution with WooCommerce and Point of Sale for your online e-commerce and local checkout commerce that will save hours of product syncing and provide ease to selling your products, collecting payments and running reports for both online and local sales.        
-
-
-= Easy to Try = 
-[Try our Demo](http://www.bizswoop.com/wp/pos)
+The Point of Sale (POS) plugin for the WooCommerce e-commerce toolkit is the perfect plugin to complement your WooCommerce shop. WooCommerce provides the shopping experience online and the POS plugin provides the shopping checkout solution at your physical store location. The POS was created to easily work across multiple device types: Desktop, Tablet and Mobile. All products automatically sync between both your online store and point of sale. Quickly connect receipt and order printers for the customer or fulfillment stations to the Point of Sale plugin using Google Cloud Print. Select a single unified solution with WooCommerce and Point of Sale for your online e-commerce and local checkout commerce that will save hours of product syncing and provide ease to selling your products, collecting payments and running reports for both online and local sales. 
 
 = Add-Ons =
 The Point of Sale supports several add-ons to enable more features of the POS and add functionality for your business.  
@@ -94,8 +90,5 @@ Yes, we encourage you to submit features and functionality request that would im
 
 == Changelog ==
 
-	= 1.0.4 =
-	* Fix for Customer Product Errors
-	
-	= 1.0.2 =
+	= 1.0.6 =
 	* First version released for Point of Sale POS WooCommerce.
